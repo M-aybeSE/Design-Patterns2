@@ -1,9 +1,8 @@
 package flyweight.nonextrinsic;
 
-public class Client
-{
-	public static void main(String args[])
-	{
+public class Client {
+
+	public static void main(String args[]) {
 		NetworkDevice nd1,nd2,nd3,nd4,nd5;
 		DeviceFactory df=new DeviceFactory();
 		
