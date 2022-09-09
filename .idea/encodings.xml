@@ -21,7 +21,11 @@
     <file url="file://$PROJECT_DIR$/src/decorator/Airplane.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/decorator/Car.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/decorator/Robot.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/facade/AirConditioner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/facade/Fan.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/facade/GeneralSwitchFacade.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/facade/Light.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/facade/Television.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/deep/Attachment.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/deep/Email.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/shallow/Attachment.java" charset="GBK" />

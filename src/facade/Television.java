@@ -1,14 +1,12 @@
 package facade;
 
-public class Television
-{
-	public void on()
-	{
+public class Television {
+
+	public void on() {
 		System.out.println("电视机打开！");
 	}
 	
-	public void off()
-	{
+	public void off() {
 		System.out.println("电视机关闭！");	
 	}
 }
