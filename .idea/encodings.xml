@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/abstractfactory/HaierTelevision.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/abstractfactory/HairAirConditioner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/abstractfactory/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/adapter/Bird.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/adapter/BirdAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/adapter/Dog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/adapter/DogAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/adapter/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bridge/Black.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bridge/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bridge/MiddlePen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bridge/XMLUtilPen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/builder/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/builder/Meal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/builder/SubMealBuilderA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/builder/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/composite/Pear.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/decorator/Airplane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/decorator/Car.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/decorator/Robot.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/facade/GeneralSwitchFacade.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/prototype/deep/Attachment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/prototype/deep/Email.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/prototype/shallow/Attachment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/prototype/shallow/Email.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/singleton/PrintSpoolerSingleton.java" charset="GBK" />
+  </component>
+</project>
