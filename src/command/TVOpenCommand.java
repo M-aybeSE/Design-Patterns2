@@ -1,14 +1,15 @@
 package command;
 
-public class TVOpenCommand implements AbstractCommand
-{
+public class TVOpenCommand implements AbstractCommand {
+
 	private Television tv;
-	public TVOpenCommand()
-	{
+
+	public TVOpenCommand() {
 		tv = new Television();
 	}
-	public void execute()
-	{
+
+	@Override
+	public void execute() {
 		tv.open();
 	}
 }

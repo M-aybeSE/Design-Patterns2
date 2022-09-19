@@ -1,9 +1,9 @@
 package command;
 
-public class Client
-{
-	public static void main(String a[])
-	{
+public class Client {
+
+	public static void main(String a[]) {
+
 		AbstractCommand openCommand,closeCommand,changeCommand;
 		
 		openCommand = new TVOpenCommand();

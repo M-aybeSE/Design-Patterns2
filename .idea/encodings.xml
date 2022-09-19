@@ -17,6 +17,7 @@
     <file url="file://$PROJECT_DIR$/src/builder/Meal.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/builder/SubMealBuilderA.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/builder/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/command/Television.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/composite/Pear.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cor/Client.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/decorator/Airplane.java" charset="GBK" />
