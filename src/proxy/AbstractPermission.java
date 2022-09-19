@@ -1,10 +1,14 @@
 package proxy;
 
-public interface AbstractPermission
-{
-	public void modifyUserInfo();
-	public void viewNote();
-	public void publishNote();
-	public void modifyNote();
-	public void setLevel(int level);
+public interface AbstractPermission {
+
+	void modifyUserInfo();
+
+	void viewNote();
+
+	void publishNote();
+
+	void modifyNote();
+
+	void setLevel(int level);
 }

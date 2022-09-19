@@ -30,6 +30,9 @@
     <file url="file://$PROJECT_DIR$/src/prototype/deep/Email.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/shallow/Attachment.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/shallow/Email.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/proxy/PermissionProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/proxy/RealPermission.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/proxy/XMLUtil.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/singleton/PrintSpoolerSingleton.java" charset="GBK" />
   </component>
 </project>
