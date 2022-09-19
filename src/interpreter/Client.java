@@ -1,9 +1,8 @@
 package interpreter;
 
-public class Client
-{
-	public static void main(String args[])
-	{
+public class Client {
+
+	public static void main(String args[]) {
 		String statement = "3 * 2 * 4 / 6 % 5";
 		
 		Calculator calculator = new Calculator();

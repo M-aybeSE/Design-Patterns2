@@ -1,6 +1,9 @@
 package interpreter;
 
-public interface Node
-{
-	public int interpret();
+/**
+ * @author 14530
+ */
+public interface Node {
+
+	int interpret();
 }
