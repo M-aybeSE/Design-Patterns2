@@ -1,14 +1,14 @@
 package cor;
 
-public class LeaveRequest
-{
+public class LeaveRequest {
+
 	private String leaveName;
+
 	private int leaveDays;
 	
-	public LeaveRequest(String leaveName,int leaveDays)
-	{
-		this.leaveName=leaveName;
-		this.leaveDays=leaveDays;
+	public LeaveRequest(String leaveName, int leaveDays) {
+		this.leaveName = leaveName;
+		this.leaveDays = leaveDays;
 	}
 	
 	public void setLeaveName(String leaveName) {
