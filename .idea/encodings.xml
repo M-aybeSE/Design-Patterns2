@@ -28,6 +28,9 @@
     <file url="file://$PROJECT_DIR$/src/facade/GeneralSwitchFacade.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/facade/Light.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/facade/Television.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/iterator/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/iterator/TCLTelevision.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/iterator/XMLUtil.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/deep/Attachment.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/deep/Email.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/shallow/Attachment.java" charset="GBK" />

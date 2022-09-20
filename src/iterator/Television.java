@@ -1,6 +1,7 @@
 package iterator;
 
-public interface Television
-{
+public interface Television {
+
 	TVIterator createIterator();
+
 }
