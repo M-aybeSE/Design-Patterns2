@@ -1,20 +1,20 @@
 package mediator;
 
-public class CommonMember extends Member
-{
-	public CommonMember(String name)
-	{
+public class CommonMember extends Member {
+
+	public CommonMember(String name) {
 		super(name);
 	}
 	
-	public void sendText(String to,String message)
-	{
-	    System.out.println("ÆÕÍ¨»áÔ±·¢ËÍĞÅÏ¢£º");
-	    chatroom.sendText(name,to,message);  //·¢ËÍ
+	@Override
+	public void sendText(String to, String message) {
+	    System.out.println("æ™®é€šä¼šå‘˜å‘é€æ¶ˆæ¯:" + message);
+		//å‘é€æ–‡æœ¬
+	    chatroom.sendText(name,to,message);
 	}
 	
-	public void sendImage(String to,String image)
-	{
-		System.out.println("ÆÕÍ¨»áÔ±²»ÄÜ·¢ËÍÍ¼Æ¬£¡");
+	@Override
+	public void sendImage(String to, String image) {
+		System.out.println("æ™®é€šä¼šå‘˜ä¸èƒ½å‘é€å›¾ç‰‡ï¼");
 	}
 }
