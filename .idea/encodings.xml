@@ -36,6 +36,10 @@
     <file url="file://$PROJECT_DIR$/src/mediator/DiamondMember.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/mediator/Member.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/memento/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/observer/Cat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/observer/Dog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/observer/MyObserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/observer/MySubject.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/deep/Attachment.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/deep/Email.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/prototype/shallow/Attachment.java" charset="GBK" />

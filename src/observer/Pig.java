@@ -1,9 +1,9 @@
 package observer;
 
-public class Pig implements MyObserver
-{
-	public void response()
-	{
-		System.out.println("猪没有反应！");
-	}	
+public class Pig implements MyObserver {
+
+    @Override
+    public void response() {
+        System.out.println("鐚病鏈夊弽搴旓紒");
+    }
 }

@@ -1,9 +1,9 @@
 package observer;
 
-public class Dog implements MyObserver
-{
-	public void response()
-	{
-		System.out.println("¹·¸ú×Å½Ð£¡");
-	}	
+public class Dog implements MyObserver {
+
+    @Override
+    public void response() {
+        System.out.println("¹·¸ú×Å½Ð£¡");
+    }
 }

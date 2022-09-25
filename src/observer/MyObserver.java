@@ -1,6 +1,9 @@
 package observer;
 
-public interface MyObserver
-{
-	void response();  //抽象响应方法
+public interface MyObserver {
+
+	/**
+	 * 抽象响应方法
+	 */
+    void response();
 }
