@@ -1,6 +1,5 @@
 package strategy;
 
-public interface Sort
-{
-	public abstract int[] sort(int arr[]);
+public interface Sort {
+    public abstract int[] sort(int arr[]);
 }

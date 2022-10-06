@@ -54,5 +54,10 @@
     <file url="file://$PROJECT_DIR$/src/state/HighState.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/state/MiddleState.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/state/PrimaryState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/strategy/BubbleSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/strategy/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/strategy/InsertionSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/strategy/QuickSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/strategy/SelectionSort.java" charset="GBK" />
   </component>
 </project>
