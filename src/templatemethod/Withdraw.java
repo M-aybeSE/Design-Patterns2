@@ -1,9 +1,8 @@
 package templatemethod;
 
-public class Withdraw extends BankTemplateMethod
-{
-	public void transact()
-	{
-		System.out.println("取款");		
-	}
+public class Withdraw extends BankTemplateMethod {
+    @Override
+    public void transact() {
+        System.out.println("取款");
+    }
 }
