@@ -1,9 +1,9 @@
 package visitor;
 
-public class Apple implements Product
-{
-  public void accept(Visitor visitor)
-  {
-      visitor.visit(this);
-  }	
+public class Apple implements Product {
+
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
 }

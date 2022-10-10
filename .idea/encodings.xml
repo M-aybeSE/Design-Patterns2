@@ -64,5 +64,9 @@
     <file url="file://$PROJECT_DIR$/src/templatemethod/Transfer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/templatemethod/Withdraw.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/templatemethod/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/visitor/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/visitor/Customer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/visitor/Saler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/visitor/XMLUtil.java" charset="GBK" />
   </component>
 </project>
